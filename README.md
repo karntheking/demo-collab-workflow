@@ -4,3 +4,5 @@ some more text
 to make the 
 file look 
 more full 
+
+This is a demo project to illustrate GitHub collaboration workflows
